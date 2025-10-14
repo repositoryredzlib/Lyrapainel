@@ -34,7 +34,6 @@ local MODS = {
     ["PRODIGYEMDRIFT"] = true,
     ["Rei_SilvaHub9"] = true,
     ["gabriellucaajj"] = true,
-    ["Xypralo"] = true,
     ["ziovxoo"] = true,
 }
 
