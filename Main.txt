@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/5629e5d8-2ddc-430d-b53d-b69059c37862/raw"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/a99bfe88f31d45be8219fc32be4de466"))()
