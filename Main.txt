@@ -1096550,4 +1096550,4 @@ print("Ola skidder")
 
 
 
-loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/8af0d73b-051c-4c24-8812-07ae0f691555/raw"))()
+loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/44be5a16-6baa-4be5-953f-c26970a171e9/raw"))()
